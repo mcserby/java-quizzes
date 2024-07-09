@@ -4,11 +4,6 @@ import java.util.List;
 
 public class DiffCalculator {
 
-
-    public static String diff(String leftCsv, String rightCsv) {
-        return "";
-    }
-
     public static String diff(List<String> keyColumns, String leftCsv, String rightCsv) {
         return "";
     }
